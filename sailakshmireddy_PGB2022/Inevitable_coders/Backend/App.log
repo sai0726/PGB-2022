@@ -1,0 +1,438 @@
+  2022-04-12T11:49:56.004Z   -   [info] -  [{"SNo":1,"Question":"Who invented Java Programming?","Option1":"Guido van Rossum","Option2":"James Gosling","Option3":"Dennis Ritchie","Option4":"Bjarne Stroustrup","Answer":"James Gosling"},{"SNo":2,"Question":"Which statement is true about Java?","Option1":"Java is a sequence-dependent programming language","Option2":"Java is a code dependent programming language","Option3":"Java is a platform-dependent programming language","Option4":"Java is a platform-independent programming language","Answer":"Java is a platform-independent programming language"},{"SNo":3,"Question":"Which component is used to compile, debug and execute the java programs?","Option1":"JRE","Option2":"JIT","Option3":"JDK","Option4":"JVM","Answer":"JDK"},{"SNo":4,"Question":"Which one of the following is not a Java feature?","Option1":"Object-oriented","Option2":"Use of pointers","Option3":"Portable","Option4":"Dynamic and Extensible","Answer":"Use of pointers"},{"SNo":5,"Question":"Which of these cannot be used for a variable name in Java?","Option1":"identifier & keyword","Option2":"identifier","Option3":"keyword","Option4":"none of the mentioned","Answer":"keyword"},{"SNo":6,"Question":"What is the extension of java code files?","Option1":".js","Option2":".txt","Option3":".class","Option4":".java","Answer":".java"},{"SNo":7,"Question":"class increment {\n        public static void main(String args[]) \n        {        \n             int g = 3;\n             System.out.print(++g * 8);\n        } \n    }","Option1":"32","Option2":"33","Option3":"24","Option4":"25","Answer":"32"},{"SNo":8,"Question":"Which environment variable is used to set the java path?","Option1":"MAVEN_Path","Option2":"JavaPATH","Option3":"JAVA","Option4":"JAVA_HOME","Answer":"JAVA_HOME"},{"SNo":9,"Question":"Which of the following is not an OOPS concept in Java?","Option1":"Polymorphism","Option2":"Inheritance","Option3":"Compilation","Option4":"Encapsulation","Answer":"Compilation"},{"SNo":10,"Question":"What is not the use of “this” keyword in Java?","Option1":"Referring to the instance variable when a local variable has the same name","Option2":"Passing itself to the method of the same class","Option3":"Passing itself to another method","Option4":"Calling another constructor in constructor chaining","Answer":"Passing itself to the method of the same class"},{"SNo":11,"Question":"What will be the error in the following Java code?byte b = 50;b = b * 50;","Option1":"b cannot contain value 50","Option2":"b cannot contain value 100, limited by its range","Option3":"No error in this code","Option4":"* operator has converted b * 50 into int, which can not be converted to byte without casting","Answer":"* operator has converted b * 50 into int, which can not be converted to byte without casting"},{"SNo":12,"Question":"Which of the following is a type of polymorphism in Java Programming?","Option1":" Multiple polymorphism","Option2":"Compile time polymorphism","Option3":"Multilevel polymorphism","Option4":"Execution time polymorphism","Answer":"Compile time polymorphism"},{"SNo":13,"Question":"What is Truncation in Java?","Option1":"Floating-point value assigned to a Floating type","Option2":"Floating-point value assigned to an integer type","Option3":"Integer value assigned to floating type","Option4":"Integer value assigned to floating type","Answer":"Floating-point value assigned to an integer type"},{"SNo":14,"Question":"What is the extension of compiled java classes?","Option1":".txt","Option2":".js","Option3":".class","Option4":".java","Answer":".class"},{"SNo":15,"Question":"Which exception is thrown when java is out of memory?","Option1":"MemoryError","Option2":" OutOfMemoryError","Option3":"MemoryOutOfBoundsException","Option4":"MemoryFullException","Answer":"OutOfMemoryError"},{"SNo":16,"Question":"Which of these are selection statements in Java?","Option1":"break","Option2":" continue","Option3":"for()","Option4":"if()","Answer":"if()"},{"SNo":17,"Question":"Which of these keywords is used to define interfaces in Java?","Option1":"intf","Option2":"exec","Option3":"interface","Option4":"implements","Answer":"interface"},{"SNo":18,"Question":"class Output \n    {\n        public static void main(String args[]) \n        {\n            Integer i = new Integer(257);  \n            byte x = i.byteValue();\n            System.out.print(x);\n        }\n    }","Option1":"257","Option2":"256","Option3":"1","Option4":"0","Answer":"1"},{"SNo":19,"Question":"Which of the following is a superclass of every class in Java?","Option1":" ArrayList","Option2":"Abstract class","Option3":"Object class","Option4":"String","Answer":"Object class"},{"SNo":20,"Question":"Which of the below is not a Java Profiler?","Option1":"JProfiler","Option2":"Eclipse Profiler","Option3":"JVM","Option4":"JConsole","Answer":"JVM"},{"SNo":21,"Question":"Which of these packages contains the exception Stack Overflow in Java?","Option1":"java.io","Option2":"java.system","Option3":"java.lang","Option4":"java.util","Answer":"java.lang"},{"SNo":22,"Question":"Which of these statements is incorrect about Thread?","Option1":"start() method is used to begin execution of the thread","Option2":"run() method is used to begin execution of a thread before start() method in special cases","Option3":"A thread can be formed by implementing Runnable interface only","Option4":"A thread can be formed by a class that extends Thread class","Answer":"run() method is used to begin execution of a thread before start() method in special cases"},{"SNo":23,"Question":" Which of these keywords are used for the block to be examined for exceptions?","Option1":"check","Option2":"throw","Option3":"catch","Option4":"try","Answer":"try"},{"SNo":24,"Question":" Which one of the following is not an access modifier?","Option1":"Protected","Option2":"Void","Option3":" Public","Option4":"Private","Answer":"Void"},{"SNo":25,"Question":"What is the numerical range of a char data type in Java?","Option1":"0 to 256","Option2":"-128 to 127","Option3":"0 to 65535","Option4":"0 to 32767","Answer":"0 to 65535"}] 
+  2022-04-12T11:50:49.212Z   -   [info] -  "javaquestions" 
+  2022-04-12T11:53:18.300Z   -   [info] -  "java questions" 
+  2022-04-12T11:53:24.391Z   -   [info] -  "python questions" 
+  2022-04-12T11:53:27.452Z   -   [info] -  "javascript questions" 
+  2022-04-12T11:53:37.381Z   -   [info] -  "java questions" 
+  2022-04-12T11:53:50.437Z   -   [info] -  "java questions" 
+  2022-04-12T11:53:54.476Z   -   [info] -  "python questions" 
+  2022-04-12T11:54:05.199Z   -   [info] -  "python questions" 
+  2022-04-12T11:58:46.287Z   -   [info] -  "java questions" 
+  2022-04-12T11:58:57.859Z   -   [info] -  "java questions" 
+  2022-04-13T03:51:09.413Z   -   [info] -  "java questions" 
+  2022-04-13T03:52:47.076Z   -   [info] -  "java questions" 
+  2022-04-13T03:52:56.746Z   -   [info] -  "java questions" 
+  2022-04-13T03:56:05.590Z   -   [info] -  "java questions" 
+  2022-04-13T03:56:20.101Z   -   [info] -  "java questions" 
+  2022-04-13T03:56:40.341Z   -   [info] -  "java questions" 
+  2022-04-13T04:01:23.215Z   -   [info] -  "java questions" 
+  2022-04-13T04:01:25.953Z   -   [info] -  {} 
+  2022-04-13T04:01:27.464Z   -   [info] -  {} 
+  2022-04-13T04:01:28.113Z   -   [info] -  {} 
+  2022-04-13T04:01:28.313Z   -   [info] -  {} 
+  2022-04-13T04:01:28.512Z   -   [info] -  {} 
+  2022-04-13T04:01:28.680Z   -   [info] -  {} 
+  2022-04-13T04:01:32.042Z   -   [info] -  {} 
+  2022-04-13T04:01:32.171Z   -   [info] -  "java questions" 
+  2022-04-13T04:01:35.960Z   -   [info] -  {} 
+  2022-04-13T04:01:39.004Z   -   [info] -  "python questions" 
+  2022-04-13T04:01:43.662Z   -   [info] -  "java questions" 
+  2022-04-13T04:01:46.389Z   -   [info] -  {} 
+  2022-04-13T04:02:04.794Z   -   [info] -  "java questions" 
+  2022-04-13T04:02:10.630Z   -   [info] -  "java questions" 
+  2022-04-13T04:02:13.136Z   -   [info] -  {} 
+  2022-04-13T04:02:21.708Z   -   [info] -  "java questions" 
+  2022-04-13T04:02:23.835Z   -   [info] -  {} 
+  2022-04-13T04:02:26.069Z   -   [info] -  "java questions" 
+  2022-04-13T04:02:54.780Z   -   [info] -  {} 
+  2022-04-13T04:03:03.661Z   -   [info] -  "java questions" 
+  2022-04-13T04:03:07.684Z   -   [info] -  {} 
+  2022-04-13T04:04:39.767Z   -   [info] -  "java questions" 
+  2022-04-13T04:05:34.559Z   -   [info] -  "java questions" 
+  2022-04-13T04:05:37.597Z   -   [info] -  {} 
+  2022-04-13T04:06:23.062Z   -   [info] -  "java questions" 
+  2022-04-13T04:06:28.007Z   -   [info] -  "python questions" 
+  2022-04-13T04:06:30.846Z   -   [info] -  "java questions" 
+  2022-04-13T04:06:33.354Z   -   [info] -  {} 
+  2022-04-13T04:08:22.756Z   -   [info] -  "java questions" 
+  2022-04-13T04:08:28.047Z   -   [info] -  "java questions" 
+  2022-04-13T04:12:57.024Z   -   [info] -  {} 
+  2022-04-13T04:12:59.056Z   -   [info] -  {} 
+  2022-04-13T04:12:59.738Z   -   [info] -  {} 
+  2022-04-13T04:12:59.964Z   -   [info] -  {} 
+  2022-04-13T04:13:00.132Z   -   [info] -  {} 
+  2022-04-13T04:13:00.309Z   -   [info] -  {} 
+  2022-04-13T04:13:00.491Z   -   [info] -  {} 
+  2022-04-13T04:13:00.610Z   -   [info] -  {} 
+  2022-04-13T04:13:33.520Z   -   [info] -  "javascript questions" 
+  2022-04-13T04:13:36.730Z   -   [info] -  {} 
+  2022-04-13T04:13:37.962Z   -   [info] -  {} 
+  2022-04-13T04:13:38.709Z   -   [info] -  {} 
+  2022-04-13T04:13:38.948Z   -   [info] -  {} 
+  2022-04-13T04:13:42.649Z   -   [info] -  "javascript questions" 
+  2022-04-13T04:13:44.683Z   -   [info] -  "python questions" 
+  2022-04-13T04:13:46.312Z   -   [info] -  "java questions" 
+  2022-04-13T04:13:48.561Z   -   [info] -  {} 
+  2022-04-13T04:14:51.123Z   -   [info] -  {} 
+  2022-04-13T04:14:53.051Z   -   [info] -  {} 
+  2022-04-13T04:14:53.459Z   -   [info] -  {} 
+  2022-04-13T04:14:53.668Z   -   [info] -  {} 
+  2022-04-13T04:14:53.846Z   -   [info] -  {} 
+  2022-04-13T04:14:55.420Z   -   [info] -  "javascript questions" 
+  2022-04-13T04:14:57.434Z   -   [info] -  {} 
+  2022-04-13T04:17:03.513Z   -   [info] -  "javascript questions" 
+  2022-04-13T04:21:47.646Z   -   [info] -  {} 
+  2022-04-13T04:23:00.121Z   -   [info] -  {} 
+  2022-04-13T04:24:41.824Z   -   [info] -  {} 
+  2022-04-13T04:24:58.628Z   -   [info] -  {} 
+  2022-04-13T04:28:41.170Z   -   [info] -  {} 
+  2022-04-13T04:28:43.088Z   -   [info] -  {} 
+  2022-04-13T04:28:43.501Z   -   [info] -  {} 
+  2022-04-13T04:28:43.679Z   -   [info] -  {} 
+  2022-04-13T04:28:43.867Z   -   [info] -  {} 
+  2022-04-13T04:28:44.077Z   -   [info] -  {} 
+  2022-04-13T04:28:44.222Z   -   [info] -  {} 
+  2022-04-13T04:28:44.580Z   -   [info] -  {} 
+  2022-04-13T04:28:44.867Z   -   [info] -  {} 
+  2022-04-13T04:28:45.085Z   -   [info] -  {} 
+  2022-04-13T04:28:45.249Z   -   [info] -  {} 
+  2022-04-13T04:28:45.399Z   -   [info] -  {} 
+  2022-04-13T04:29:57.065Z   -   [info] -  "java questions" 
+  2022-04-13T04:33:27.131Z   -   [info] -  "java questions" 
+  2022-04-13T04:33:27.142Z   -   [info] -  {} 
+  2022-04-13T04:33:35.689Z   -   [info] -  "python questions" 
+  2022-04-13T04:33:38.127Z   -   [info] -  "java questions" 
+  2022-04-13T04:33:38.138Z   -   [info] -  {} 
+  2022-04-13T04:34:22.289Z   -   [info] -  "java questions" 
+  2022-04-13T04:34:22.316Z   -   [info] -  {} 
+  2022-04-13T04:34:24.002Z   -   [info] -  "java questions" 
+  2022-04-13T04:34:24.011Z   -   [info] -  {} 
+  2022-04-13T04:34:28.273Z   -   [info] -  "java questions" 
+  2022-04-13T04:34:28.317Z   -   [info] -  {} 
+  2022-04-13T04:34:31.897Z   -   [info] -  "java questions" 
+  2022-04-13T04:34:31.907Z   -   [info] -  {} 
+  2022-04-13T04:35:53.042Z   -   [info] -  "java questions" 
+  2022-04-13T04:35:53.057Z   -   [info] -  {} 
+  2022-04-13T04:36:01.492Z   -   [info] -  "java questions" 
+  2022-04-13T04:36:01.535Z   -   [info] -  {} 
+  2022-04-13T04:36:07.714Z   -   [info] -  "java questions" 
+  2022-04-13T04:36:07.727Z   -   [info] -  {} 
+  2022-04-13T04:36:23.090Z   -   [info] -  "java questions" 
+  2022-04-13T04:36:23.117Z   -   [info] -  {} 
+  2022-04-13T04:36:28.897Z   -   [info] -  "java questions" 
+  2022-04-13T04:36:28.908Z   -   [info] -  {} 
+  2022-04-13T04:36:57.898Z   -   [info] -  "java questions" 
+  2022-04-13T04:36:57.912Z   -   [info] -  {} 
+  2022-04-13T04:38:35.130Z   -   [info] -  "java questions" 
+  2022-04-13T04:38:35.148Z   -   [info] -  {} 
+  2022-04-13T04:38:54.466Z   -   [info] -  "python questions" 
+  2022-04-13T04:38:56.655Z   -   [info] -  "python questions" 
+  2022-04-13T04:39:00.152Z   -   [info] -  "javascript questions" 
+  2022-04-13T04:39:01.824Z   -   [info] -  "javascript questions" 
+  2022-04-13T04:39:03.808Z   -   [info] -  "java questions" 
+  2022-04-13T04:39:03.816Z   -   [info] -  {} 
+  2022-04-13T04:40:07.333Z   -   [info] -  "java questions" 
+  2022-04-13T04:40:07.361Z   -   [info] -  {} 
+  2022-04-13T04:40:09.588Z   -   [info] -  "java questions" 
+  2022-04-13T04:40:09.602Z   -   [info] -  {} 
+  2022-04-13T05:06:09.759Z   -   [info] -  "java questions" 
+  2022-04-13T05:06:09.772Z   -   [info] -  {} 
+  2022-04-13T05:06:12.871Z   -   [info] -  "java questions" 
+  2022-04-13T05:06:12.896Z   -   [info] -  {} 
+  2022-04-13T05:06:16.043Z   -   [info] -  "java questions" 
+  2022-04-13T05:06:16.057Z   -   [info] -  {} 
+  2022-04-13T05:06:24.330Z   -   [info] -  "java questions" 
+  2022-04-13T05:06:24.339Z   -   [info] -  {} 
+  2022-04-13T05:06:35.862Z   -   [info] -  "java questions" 
+  2022-04-13T05:06:35.886Z   -   [info] -  {} 
+  2022-04-13T05:08:00.662Z   -   [info] -  {} 
+  2022-04-13T05:08:01.593Z   -   [info] -  {} 
+  2022-04-13T05:08:01.854Z   -   [info] -  {} 
+  2022-04-13T05:08:02.140Z   -   [info] -  {} 
+  2022-04-13T05:08:02.354Z   -   [info] -  {} 
+  2022-04-13T05:08:02.563Z   -   [info] -  {} 
+  2022-04-13T05:08:03.648Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:08:13.031Z   -   [info] -  {} 
+  2022-04-13T05:14:45.984Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:14:45.985Z   -   [info] -  "java questions" 
+  2022-04-13T05:15:06.304Z   -   [info] -  "java questions" 
+  2022-04-13T05:15:08.459Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:15:08.460Z   -   [info] -  "java questions" 
+  2022-04-13T05:15:18.225Z   -   [info] -  "java questions" 
+  2022-04-13T05:15:46.299Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:15:46.301Z   -   [info] -  "java questions" 
+  2022-04-13T05:15:54.421Z   -   [info] -  "java questions" 
+  2022-04-13T05:15:59.186Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:15:59.188Z   -   [info] -  "java questions" 
+  2022-04-13T05:16:23.499Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:16:23.501Z   -   [info] -  "java questions" 
+  2022-04-13T05:16:26.162Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:16:26.165Z   -   [info] -  "python questions" 
+  2022-04-13T05:16:32.020Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:16:32.022Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:16:36.217Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:16:46.716Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:16:46.719Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:16:48.678Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:16:51.917Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:16:52.780Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:17:20.444Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:17:20.447Z   -   [info] -  "java questions" 
+  2022-04-13T05:17:55.765Z   -   [info] -  "java questions" 
+  2022-04-13T05:18:10.755Z   -   [info] -  "java questions" 
+  2022-04-13T05:18:10.756Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:18:15.036Z   -   [info] -  "java questions" 
+  2022-04-13T05:18:15.038Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:18:16.312Z   -   [info] -  "java questions" 
+  2022-04-13T05:18:16.315Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:18:20.729Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:18:20.733Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:18:20.735Z   -   [info] -  "java questions" 
+  2022-04-13T05:19:18.892Z   -   [info] -  "java questions" 
+  2022-04-13T05:19:18.895Z   -   [info] -  {"level":"level1"} 
+  2022-04-13T05:20:25.761Z   -   [info] -  "java questions" 
+  2022-04-13T05:20:25.763Z   -   [info] -  {"level":" "} 
+  2022-04-13T05:20:52.769Z   -   [info] -  "java questions" 
+  2022-04-13T05:20:52.771Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:24:33.755Z   -   [info] -  "java questions" 
+  2022-04-13T05:24:33.756Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:24:49.077Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:24:49.079Z   -   [info] -  "java questions" 
+  2022-04-13T05:25:11.834Z   -   [info] -  "java questions" 
+  2022-04-13T05:25:11.835Z   -   [info] -  {"level":"/Java2"} 
+  2022-04-13T05:25:33.249Z   -   [info] -  "java questions" 
+  2022-04-13T05:25:33.251Z   -   [info] -  {"level":"/Java2"} 
+  2022-04-13T05:25:59.347Z   -   [info] -  "java questions" 
+  2022-04-13T05:25:59.348Z   -   [info] -  {"level":"/Java2"} 
+  2022-04-13T05:26:04.372Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:26:04.374Z   -   [info] -  "java questions" 
+  2022-04-13T05:26:10.694Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:26:10.695Z   -   [info] -  "java questions" 
+  2022-04-13T05:26:12.324Z   -   [info] -  "python questions" 
+  2022-04-13T05:26:16.179Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:26:16.180Z   -   [info] -  "java questions" 
+  2022-04-13T05:26:21.634Z   -   [info] -  "java questions" 
+  2022-04-13T05:26:21.636Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:26:23.348Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:26:23.363Z   -   [info] -  "java questions" 
+  2022-04-13T05:26:24.830Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:26:24.832Z   -   [info] -  "java questions" 
+  2022-04-13T05:27:13.965Z   -   [info] -  "java questions" 
+  2022-04-13T05:27:13.967Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:29:24.765Z   -   [info] -  "java questions" 
+  2022-04-13T05:29:24.766Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:29:39.885Z   -   [info] -  "java questions" 
+  2022-04-13T05:29:39.886Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:29:47.341Z   -   [info] -  {"level":"/Java"} 
+  2022-04-13T05:29:47.343Z   -   [info] -  "java questions" 
+  2022-04-13T05:29:50.914Z   -   [info] -  {"level":"/Python"} 
+  2022-04-13T05:29:50.917Z   -   [info] -  "python questions" 
+  2022-04-13T05:29:55.171Z   -   [info] -  {"level":"/JavaScript"} 
+  2022-04-13T05:29:55.173Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:30:00.504Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:30:00.505Z   -   [info] -  {"level":"/JavaScript"} 
+  2022-04-13T05:33:37.102Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:33:37.103Z   -   [info] -  "java questions" 
+  2022-04-13T05:34:08.938Z   -   [info] -  "java questions" 
+  2022-04-13T05:34:08.940Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:34:11.241Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T05:34:11.244Z   -   [info] -  "python questions" 
+  2022-04-13T05:34:15.785Z   -   [info] -  {"level":"/JavaScriptlevel1"} 
+  2022-04-13T05:34:15.787Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:34:22.587Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:34:22.588Z   -   [info] -  "java questions" 
+  2022-04-13T05:34:24.771Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T05:34:24.774Z   -   [info] -  "python questions" 
+  2022-04-13T05:34:27.675Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:34:27.677Z   -   [info] -  {"level":"/JavaScriptlevel1"} 
+  2022-04-13T05:34:37.403Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:34:37.432Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:34:37.433Z   -   [info] -  "java questions" 
+  2022-04-13T05:34:41.105Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:34:41.108Z   -   [info] -  "java questions" 
+  2022-04-13T05:34:43.906Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T05:34:43.908Z   -   [info] -  "python questions" 
+  2022-04-13T05:34:46.010Z   -   [info] -  {"level":"/JavaScriptlevel1"} 
+  2022-04-13T05:34:46.013Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:34:50.891Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:34:50.894Z   -   [info] -  "java questions" 
+  2022-04-13T05:35:15.954Z   -   [info] -  {"level":"/Javalevel2"} 
+  2022-04-13T05:35:15.956Z   -   [info] -  "java questions" 
+  2022-04-13T05:36:25.544Z   -   [info] -  {"level":"/Javalevel2"} 
+  2022-04-13T05:36:25.548Z   -   [info] -  "java questions" 
+  2022-04-13T05:36:42.275Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T05:36:42.280Z   -   [info] -  "python questions" 
+  2022-04-13T05:36:49.188Z   -   [info] -  {"level":"/JavaScriptlevel1"} 
+  2022-04-13T05:36:49.191Z   -   [info] -  "javascript questions" 
+  2022-04-13T05:36:57.893Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:36:57.894Z   -   [info] -  "java questions" 
+  2022-04-13T05:37:05.236Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:37:05.238Z   -   [info] -  "java questions" 
+  2022-04-13T05:37:19.071Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T05:37:19.073Z   -   [info] -  "java questions" 
+  2022-04-13T05:38:47.019Z   -   [info] -  {} 
+  2022-04-13T05:38:48.008Z   -   [info] -  {} 
+  2022-04-13T05:38:49.723Z   -   [info] -  {} 
+  2022-04-13T05:38:51.099Z   -   [info] -  {} 
+  2022-04-13T05:38:51.547Z   -   [info] -  {} 
+  2022-04-13T05:38:51.916Z   -   [info] -  {} 
+  2022-04-13T05:38:52.377Z   -   [info] -  {} 
+  2022-04-13T05:38:52.967Z   -   [info] -  {} 
+  2022-04-13T05:38:53.329Z   -   [info] -  {} 
+  2022-04-13T06:12:58.850Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:12:58.852Z   -   [info] -  "java questions" 
+  2022-04-13T06:14:57.178Z   -   [info] -  "java questions" 
+  2022-04-13T06:14:59.258Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:02.394Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:12.700Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:20.820Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:23.915Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T06:15:23.918Z   -   [info] -  "python questions" 
+  2022-04-13T06:15:36.037Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:38.353Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:39.786Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T06:15:39.788Z   -   [info] -  "python questions" 
+  2022-04-13T06:15:42.548Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:44.525Z   -   [info] -  "java questions" 
+  2022-04-13T06:15:47.218Z   -   [info] -  "java questions" 
+  2022-04-13T06:16:13.043Z   -   [info] -  "java questions" 
+  2022-04-13T06:16:14.791Z   -   [info] -  "java questions" 
+  2022-04-13T06:16:39.755Z   -   [info] -  "java questions" 
+  2022-04-13T06:16:44.965Z   -   [info] -  "java questions" 
+  2022-04-13T06:16:46.503Z   -   [info] -  "java questions" 
+  2022-04-13T06:16:48.418Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T06:16:48.420Z   -   [info] -  "python questions" 
+  2022-04-13T06:18:04.819Z   -   [info] -  "java questions" 
+  2022-04-13T06:18:09.077Z   -   [info] -  "java questions" 
+  2022-04-13T06:18:11.256Z   -   [info] -  "java questions" 
+  2022-04-13T06:18:13.640Z   -   [info] -  "java questions" 
+  2022-04-13T06:18:51.230Z   -   [info] -  "java questions" 
+  2022-04-13T06:18:52.921Z   -   [info] -  "java questions" 
+  2022-04-13T06:18:55.355Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T06:18:55.357Z   -   [info] -  "python questions" 
+  2022-04-13T06:18:56.947Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T06:18:56.951Z   -   [info] -  "python questions" 
+  2022-04-13T06:18:59.204Z   -   [info] -  "java questions" 
+  2022-04-13T06:19:01.082Z   -   [info] -  "java questions" 
+  2022-04-13T06:19:42.825Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:19:42.828Z   -   [info] -  "java questions" 
+  2022-04-13T06:19:53.764Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:19:53.766Z   -   [info] -  "java questions" 
+  2022-04-13T06:20:24.357Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:20:24.359Z   -   [info] -  "java questions" 
+  2022-04-13T06:25:17.346Z   -   [info] -  "java questions" 
+  2022-04-13T06:25:17.347Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:25:18.936Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:25:18.938Z   -   [info] -  "java questions" 
+  2022-04-13T06:25:19.870Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:25:19.872Z   -   [info] -  "java questions" 
+  2022-04-13T06:25:20.944Z   -   [info] -  "java questions" 
+  2022-04-13T06:25:20.945Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:25:25.397Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:25:25.399Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:05.476Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:05.477Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:06.351Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:06.353Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:06.949Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:06.951Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:07.273Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:07.275Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:07.458Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:07.461Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:07.661Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:07.663Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:07.996Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:07.998Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:08.182Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:08.184Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:08.453Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:08.455Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:08.747Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:08.748Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:09.019Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:09.021Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:09.225Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:09.227Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:09.457Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:09.459Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:09.650Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:09.652Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:09.922Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:09.923Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:37.324Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:37.326Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:39.938Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:39.940Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:41.572Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:41.573Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:43.009Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:43.011Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:44.130Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:44.134Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:46.441Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:46.443Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:48.409Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:48.411Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:49.809Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:49.810Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:26:50.692Z   -   [info] -  "java questions" 
+  2022-04-13T06:26:50.694Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:27:58.895Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:27:58.897Z   -   [info] -  "java questions" 
+  2022-04-13T06:28:00.959Z   -   [info] -  "java questions" 
+  2022-04-13T06:28:00.961Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:28:01.766Z   -   [info] -  "java questions" 
+  2022-04-13T06:28:01.767Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:28:02.460Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:28:02.462Z   -   [info] -  "java questions" 
+  2022-04-13T06:28:03.098Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:28:03.101Z   -   [info] -  "java questions" 
+  2022-04-13T06:28:04.066Z   -   [info] -  "java questions" 
+  2022-04-13T06:28:04.067Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:28:23.997Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:28:23.999Z   -   [info] -  "java questions" 
+  2022-04-13T06:28:26.182Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:28:26.184Z   -   [info] -  "java questions" 
+  2022-04-13T06:30:49.573Z   -   [info] -  "java questions" 
+  2022-04-13T06:30:53.430Z   -   [info] -  "java questions" 
+  2022-04-13T06:32:08.761Z   -   [info] -  "java questions" 
+  2022-04-13T06:32:08.762Z   -   [info] -  {"location1":"/Javalevel1"} 
+  2022-04-13T06:32:51.755Z   -   [info] -  "java questions" 
+  2022-04-13T06:32:51.756Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:35:17.497Z   -   [info] -  "java questions" 
+  2022-04-13T06:35:17.498Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:35:20.508Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:35:20.509Z   -   [info] -  "java questions" 
+  2022-04-13T06:35:23.163Z   -   [info] -  "java questions" 
+  2022-04-13T06:35:23.167Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:35:24.716Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T06:35:24.719Z   -   [info] -  "python questions" 
+  2022-04-13T06:35:29.950Z   -   [info] -  {"level":"home page"} 
+  2022-04-13T06:36:04.315Z   -   [info] -  "java questions" 
+  2022-04-13T06:36:04.317Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:36:07.630Z   -   [info] -  "java questions" 
+  2022-04-13T06:36:07.631Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:37:15.728Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:37:15.730Z   -   [info] -  "java questions" 
+  2022-04-13T06:37:20.563Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:37:20.566Z   -   [info] -  "java questions" 
+  2022-04-13T06:37:28.360Z   -   [info] -  {"level":"In Home Page"} 
+  2022-04-13T06:37:32.570Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T06:37:32.573Z   -   [info] -  "python questions" 
+  2022-04-13T06:37:36.966Z   -   [info] -  {"level":"In Home Page"} 
+  2022-04-13T06:37:38.277Z   -   [info] -  {"level":"/JavaScriptlevel1"} 
+  2022-04-13T06:37:38.279Z   -   [info] -  "javascript questions" 
+  2022-04-13T06:37:42.685Z   -   [info] -  {"level":"In Home Page"} 
+  2022-04-13T06:38:36.271Z   -   [info] -  "java questions" 
+  2022-04-13T06:38:36.272Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:38:39.577Z   -   [info] -  "java questions" 
+  2022-04-13T06:38:39.579Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:38:40.593Z   -   [info] -  "java questions" 
+  2022-04-13T06:38:40.595Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:38:42.287Z   -   [info] -  "java questions" 
+  2022-04-13T06:38:42.290Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:38:44.887Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:38:44.888Z   -   [info] -  "java questions" 
+  2022-04-13T06:38:47.531Z   -   [info] -  "java questions" 
+  2022-04-13T06:38:47.535Z   -   [info] -  {"level":"/Javalevel1"} 
+  2022-04-13T06:38:51.724Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T08:51:01.520Z   -   [info] -  {"level":"/Pythonlevel1"} 
+  2022-04-13T08:51:01.522Z   -   [info] -  "python questions" 
+  2022-04-13T08:51:08.332Z   -   [info] -  {"level":"In Home Page"} 
+  2022-04-13T08:51:10.477Z   -   [info] -  {"level":"/JavaScriptlevel1"} 
+  2022-04-13T08:51:10.482Z   -   [info] -  "javascript questions" 
+  2022-04-13T08:51:14.216Z   -   [info] -  {"level":"In Home Page"} 
+  2022-04-13T08:52:14.219Z   -   [info] -  "java questions" 
+  2022-04-13T08:52:18.984Z   -   [info] -  "python questions" 
+  2022-04-13T08:52:20.387Z   -   [info] -  "javascript questions" 
